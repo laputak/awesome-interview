@@ -46,7 +46,7 @@
 如果您有更多面试真题想要分享，或者想要加入我们的面试交流群，请扫描下方二维码联系助手：
 
 <div align="center">
-  <img src="imgs/qrcode.png" alt="联系助手" width="100%" />
+  <img src="imgs/qrcode.png" alt="联系助手" width="25%" />
 </div>
 
 ## 🤝 贡献指南
